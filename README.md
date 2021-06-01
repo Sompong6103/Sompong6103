@@ -1,7 +1,7 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 
-I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
+I’m <a href="https://github.com/Sompong6103">Sompong Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
 **Discord Communities:**
 
