@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cheewa (Sompong)</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 🔭 I’m currently working on [WhatCity](https://www.facebook.com/whatcityfivem)
 
